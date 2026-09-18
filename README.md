@@ -32,4 +32,4 @@ A collection of production-ready SQL scripts designed for relational database qu
 
 ---
 
-📫 *Connect with me:* [LinkedIn](https://www.linkedin.com/in/fatmanur-yavuz2520) | [Email](mailto:fatmanur@gmail.com)
+📫 *Connect with me:* [LinkedIn](https://www.linkedin.com/in/fatmanur-yavuz2520) | [Email](mailto:fatmanurrr@gmail.com)
