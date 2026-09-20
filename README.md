@@ -8,8 +8,8 @@ Product-oriented professional with a strong background in project planning, data
 
 ### 🎯 About Me
 - 📱 *Focus:* Mobile Product Management, Product Analytics, User Metrics & Segmentation
-- 📊 *Data-Driven:* Leverages data to understand user behavior, product performance, and retention.
-- 🚀 *Execution:* Skilled in breaking down complex projects into actionable milestones using structured management frameworks.
+- 📊 *Data-Driven:* Practical foundation in using data (SQL, Python, Excel) to understand user behavior, track product metrics, and support product decisions.
+- 🚀 *Execution:* Structured approach to project management—using WBS and CPM frameworks to break down projects and organize workflows.
 
 ---
 
@@ -26,8 +26,7 @@ Product-oriented professional with a strong background in project planning, data
 
 ### 📂 Featured Projects
 - 🕹️ *Mobile Game Product & Data Analysis:* Analytical exploration of game performance metrics, user retention, and feature impact.
-- 📋 *Project Management & Execution Frameworks:* End-to-end project planning deliverables including Work Breakdown Structure (WBS) and Critical Path Method (CPM) dependency maps.
-
+- 📋 *Project Management & Execution Frameworks:* Project planning deliverables including Work Breakdown Structure (WBS) and Critical Path Method (CPM) dependency maps.
 
 ---
 
