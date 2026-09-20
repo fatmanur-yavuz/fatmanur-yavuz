@@ -2,7 +2,8 @@
 
 *Product Specialist Candidate | Data-Driven Product & Project Management*
 
-Product-oriented professional with a strong background in project planning, data analytics, and product metrics. Deeply passionate about the mobile gaming industry, structured problem-solving, and continuous learning.
+I am building my career toward Product Management, combining my background in project management with training and hands-on portfolio work in data analysis and product analytics.
+
 
 ---
 
